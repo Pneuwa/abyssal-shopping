@@ -62,7 +62,7 @@ function Footer() {
               </Link>
             </li>
             <li>
-              <Link to={`https://github.com/Rhayaden`} target="_blank">
+              <Link to={`https://github.com/Raiyader`} target="_blank">
                 <i className="fa-brands fa-github fa-fw"></i> Github
               </Link>
             </li>
